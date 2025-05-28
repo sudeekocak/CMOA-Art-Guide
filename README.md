@@ -1,6 +1,9 @@
 Cleveland Museum of Art Guide 🎨
 Cleveland Museum of Art Guide, Yıldız Teknik Üniversitesi Mobil Programlama (BTO4132) dersi için geliştirilmiş interaktif bir sanat uygulamasıdır.
 
+**Uygulama Tanımı**
+CMOA-Art Guide, kullanıcıların sanat eserlerine her yerde ve her zaman erişmelerini sağlayan bir mobil uygulamadır. Uygulama, her bir eserin detaylı bilgilerini;sanatçı, üretim tarihi, kullanılan teknik, sergilendiği bölüm gibi bilgileri sunar. Müze içinde ya da internet bağlantısıyla dışarıda bile, kullanıcılar eserlerin tüm detaylarına kolaylıkla ulaşabilir. Ayrıca keşfettikleri eserleri favorilerine ekleyerek, gelecekte olacak müze ziyaretlerinde ön bilgiye sahip olarak sanat eserlerini inceleme fırsatı bulacaklardır.
+
 **Özellikler**
 
 * Seçilen eserin:
